@@ -40,6 +40,7 @@
     "@types/bcrypt": "^5.0.2",
     "@types/lodash": "^4.17.7",
     "daisyui": "^4.12.2",
+    "encoding": "^0.1.13",
     "openssl": "^2.0.0"
   }
 }
